@@ -1,0 +1,13 @@
+
+American Lock Codes
+
+Only the first three characters stamped 
+on the lock body are part of the date code.
+
+Month 
+Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec 
+ Z   Y   X   W   V   U   T   S   R   Q   P   O  
+
+Year 
+1 2 3 4 5 6 7 8 9 0 
+N M L K J I H G F E  
